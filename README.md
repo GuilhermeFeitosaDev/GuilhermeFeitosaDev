@@ -12,10 +12,10 @@ Sou **Analista de Dados em Formação** com foco em transformar dados em insight
 💡 Motivado, proativo e sempre em busca de aprendizado
 
 ## Habilidades Técnicas 🛠️
-- **Python** → Manipulação e análise de dados (Pandas, NumPy, Matplotlib, Seaborn)
-- **SQL** → Consultas, joins, funções de agregação e análise de bases relacionais
 - **Excel** → Dashboards, tabelas dinâmicas e fórmulas.
 - **Power BI** → Modelagem de dados e construção de relatórios interativos
+- **Python** → Basico
+- **SQL** → Basico
 
 ## Minhas Redes:
 [![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GuilhermeFeitosaDev/)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0000FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermealvesfeitosati/) [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](Guilhermehealfeitosa35@gmail.com)
