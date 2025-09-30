@@ -1,4 +1,4 @@
-# Olá, eu sou o Guilherme Feitosa 👋
+# Olá, me chamo Guilherme Feitosa 👋
 
 ## Sobre mim 🚀
 Sou **Analista de Dados em Formação** com foco em transformar dados em insights estratégicos. Estou sempre em busca de aprender novas ferramentas e desenvolver projetos práticos que agreguem valor.
