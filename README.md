@@ -1,7 +1,7 @@
 # Olá, me chamo Guilherme Feitosa 👋
 
 ## Sobre mim 🚀
-Sou **Analista de Dados em** formado em Gestão da Tecnologia da Informação, apaixonado por tecnologia e aprendizado contínuo.
+Sou **Analista de Dados ** formado em Gestão da Tecnologia da Informação, apaixonado por tecnologia e aprendizado contínuo.
 Atualmente, estou em uma trilha para me desenvolver em Excel, Power BI, Python e SQL , buscando transformar dados em informações estratégicas e insghts que gerem valor para as empresas.
 Motivado, curioso e sempre aberto a novos desafios que me permitam crescer pessoal e profissionalmente.
 
