@@ -27,7 +27,7 @@ Sou profissional de Dados com experiência em auditoria, automação de processo
 ## Meus Projetos:
 [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://om/view/portfolio-guilherme-feitosa/power-bi)
 
-![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) **LOANDING ...**
+[![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://github.com/GuilhermeFeitosaDev/Dashboard_in_excel)
 
 ![SQL](https://img.shields.io/badge/-SQL-007ACC?style=for-the-badge&logo=sql&logoColor=white) **LOANDING ...**
 
