@@ -25,7 +25,7 @@ Motivado, curioso e sempre aberto a novos desafios que me permitam crescer pesso
 
 
 ## Meus Projetos:
-[![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=white)](https://sites.google.com/view/portflio-guilherme-feitosa/in%C3%ADcio)
+![PowerBI](https://sites.google.com/view/portflio-guilherme-feitosa/power-bi)
 
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) **LOANDING ...**
 
