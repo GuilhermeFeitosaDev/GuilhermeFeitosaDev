@@ -22,8 +22,7 @@ Atualmente atuo com ferramentas como Alteryx, SQL, Power BI, Excel e IDEA, apoia
 
 ## Minhas Redes:
 [![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GuilhermeFeitosaDev/)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0000FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermealvesfeitosati/) [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](Guilhermehealfeitosa35@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511999999999?text=Olá%2C%20vim%20pelo%20seu%20portfólio!)
-
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511999999999?text=Olá%2C%20vim%20pelo%20seu%20portfólio!) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sites.google.com/view/portflio-guilherme-feitosa/sobre-mim)
 
 ## Meus Projetos:
 [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://om/view/portfolio-guilherme-feitosa/power-bi)
