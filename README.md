@@ -1,8 +1,9 @@
 # Olá, me chamo Guilherme Feitosa 👋
 
 ##  Audit Tech & Analytics Assistant 🎯 | KPMG
-Sou profissional de Data Analytics atuando na área de Audit Tech & Analytics da KPMG, com experiência em automação de processos, análise de dados e suporte a auditorias financeiras. Tenho formação em **Gestão da Tecnologia da Informação** e certificação **CPA** (ANBIMA), combinando conhecimentos de dados, auditoria e mercado financeiro.
-Atualmente atuo com ferramentas como Alteryx, SQL, Power BI, Excel e IDEA, apoiando equipes de auditoria na transformação de grandes volumes de dados em informações estratégicas.
+Analista de Dados Jr na KPMG, com experiência em auditoria baseada em dados, tratamento de informações financeiras e operacionais e suporte a processos de conformidade e controle. Atuo com grandes volumes de dados utilizando Alteryx, SQL, Power BI, Excel e ferramentas especializadas de auditoria, desenvolvendo soluções voltadas à qualidade, integridade e análise de informações.
+
+Certificado CPA (ANBIMA) e formado em Gestão da Tecnologia da Informação, busco unir experiência] em dados, tecnologia e visão de negócios para atuar no mercado financeiro. Possuo forte perfil analítico, facilidade para aprendizado, visão de processos e interesse em áreas relacionadas a Analytics, Riscos, Compliance, Governança de Dados e Inteligência de Negócios.
 
 🎓 Formado em Gestão de TI
 
