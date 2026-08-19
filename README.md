@@ -1,7 +1,8 @@
 # Olá, me chamo Guilherme Feitosa 👋
 
 ##  Audit Tech & Analytics Assistant 🎯 | KPMG
-Sou profissional de Dados com experiência em auditoria, automação de processos, tratamento de grandes volumes de dados e análise financeira.
+Sou profissional de Data Analytics atuando na área de Audit Tech & Analytics da KPMG, com experiência em automação de processos, análise de dados e suporte a auditorias financeiras. Tenho formação em **Gestão da Tecnologia da Informação** e certificação **CPA** (ANBIMA), combinando conhecimentos de dados, auditoria e mercado financeiro.
+Atualmente atuo com ferramentas como Alteryx, SQL, Power BI, Excel e IDEA, apoiando equipes de auditoria na transformação de grandes volumes de dados em informações estratégicas.
 
 🎓 Formado em Gestão de TI
 
@@ -16,8 +17,8 @@ Sou profissional de Dados com experiência em auditoria, automação de processo
 ## Habilidades Técnicas 🛠️
 - **Power BI** → Modelagem de dados e construção de relatórios interativos
 - **Excel** → Dashboards, tabelas dinâmicas e fórmulas.
-- **Python** → Basico
-- **SQL** → Basico
+- **Python** → Automação, tratamento e análise de dados
+- **SQL** → Consultas, transformação e análise de dados
 
 ## Minhas Redes:
 [![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GuilhermeFeitosaDev/)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0000FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermealvesfeitosati/) [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](Guilhermehealfeitosa35@gmail.com)
