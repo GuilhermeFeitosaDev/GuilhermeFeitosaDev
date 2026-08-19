@@ -1,11 +1,11 @@
 # Olá, me chamo Guilherme Feitosa 👋
 
-## Sobre mim 🚀
-Sou **Analista de Dados ** formado em Gestão da Tecnologia da Informação, apaixonado por tecnologia e aprendizado contínuo.
-Atualmente, estou em uma trilha para me desenvolver em Excel, Power BI, Python e SQL , buscando transformar dados em informações estratégicas e insghts que gerem valor para as empresas.
-Motivado, curioso e sempre aberto a novos desafios que me permitam crescer pessoal e profissionalmente.
+##  Audit Tech & Analytics Assistant 🎯 | KPMG
+Sou profissional de Dados com experiência em auditoria, automação de processos, tratamento de grandes volumes de dados e análise financeira.
 
 🎓 Formado em Gestão de TI
+
+📄 Certificado - CPA (Anbima) 
 
 💼 Experiência em multinacional
 
@@ -25,7 +25,7 @@ Motivado, curioso e sempre aberto a novos desafios que me permitam crescer pesso
 
 
 ## Meus Projetos:
-![PowerBI](https://sites.google.com/view/portflio-guilherme-feitosa/power-bi)
+[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://om/view/portfolio-guilherme-feitosa/power-bi)
 
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) **LOANDING ...**
 
